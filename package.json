@@ -2,6 +2,9 @@
   "name": "hooked-expense-tracker",
   "version": "1.0.0",
   "description": "backend for Expense tracker",
+  "engines": {
+    "node": "13.7.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server",
