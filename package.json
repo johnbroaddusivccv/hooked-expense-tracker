@@ -4,7 +4,6 @@
   "description": "backend for Expense tracker",
   "main": "server.js",
   "scripts": {
-    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build",
     "start": "node server",
     "server": "nodemon server",
     "client": "npm start --prefix client",
