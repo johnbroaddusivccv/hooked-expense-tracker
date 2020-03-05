@@ -35,10 +35,18 @@ npm -D install nodemon concurrently
 npm run dev
 ```
 ## Build & Deploy to Heroku
-- In the root folder
+- bash into the client folder
+```
+cd client
+```
 ```
 npm run build
 ```
+- Bash into the root directory
+```
+cd ..
+```
+
 ```
 Heroku create
 ```
