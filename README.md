@@ -7,7 +7,7 @@ Using React hooks users can create and delete transactions that will return the 
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/get-npm) to install native-shopify. It is installed with [Node.js](https://nodejs.org/en/)
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install hooked-expense-tracker. It is installed with [Node.js](https://nodejs.org/en/)
 - - - -
 ```bash
 git init
